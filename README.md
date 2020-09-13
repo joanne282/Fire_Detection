@@ -1,6 +1,8 @@
 # fire
 
-Fire Detection Program
+[ Fire Detection Program ]
+
+This version is Fire Detection Program using Flask.
  - Yolov3 (Object Detection)
  - Flask (Web Framework)
  - OpenCV (Camera, Image)
